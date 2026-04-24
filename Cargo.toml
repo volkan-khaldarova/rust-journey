@@ -1,0 +1,7 @@
+[workspace]
+# Updates the dependency resolution algorithm to match Edition 2024
+resolver = "3"
+
+members = [
+    "01-kelvin-weather",
+]

@@ -1,0 +1,24 @@
+# --- Rust Derleme Dosyaları ---
+# Bu klasör makineye özel derleme çıktılarını (binaries) tutar.
+# Her sistemde 'cargo build' ile yeniden oluşturulmalıdır.
+/target/
+
+# --- IDE / Editör Dosyaları ---
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# --- İşletim Sistemi Dosyaları ---
+.DS_Store
+Thumbs.db
+
+# --- Log ve Geçici Dosyalar ---
+*.log
+/tmp/
+
+# --- Opsiyonel: Cargo.lock ---
+# Eğer bir 'Library' yazıyorsan bunu ignore edebilirsin.
+# Ancak bir 'Application' (Binary) yazıyorsan (bizimki gibi),
+# sürümlerin kilitlenmesi için bu dosyanın GitHub'a gitmesi önerilir.
+# Cargo.lock
