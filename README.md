@@ -8,7 +8,7 @@ This repository serves as a structured workspace for my transition into systems 
 ## 📂 Project Index
 Currently, this repository contains the following active projects. Each directory includes its own dedicated `README.md` and is managed via Cargo.
 
-* 01-kelvin-weather: A temperature conversion utility built with strict error handling and pure functions.
+* * 01-kelvin-weather: A temperature conversion utility built with strict error handling and pure functions.
 
 ## 🛠️ Tech Stack
 * Rust (Stable Toolchain)
