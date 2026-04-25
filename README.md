@@ -8,8 +8,10 @@ This repository serves as a structured workspace for my transition into systems 
 ## 📂 Project Index
 Currently, this repository contains the following active projects. Each directory includes its own dedicated `README.md` and is managed via Cargo.
 
-* 01-kelvin-weather: A temperature conversion utility built with strict error handling and pure functions.
-* 02-dog-years: This project is a simple JavaScript utility that converts a human's age into "dog years." It follows a specific biological maturity model where a dog's first two years account for more growth than their subsequent years.
+
+* **[01-kelvin-weather](./01-kelvin-weather/)**: A temperature conversion utility built with strict error handling and pure functions.
+* **[02-dog-years](./02-dog-years/src/main.rs)**: This project is a simple JavaScript utility that converts a human's age into "dog years." It follows a specific biological maturity model where a dog's first two years account for more growth than their subsequent years.
+
 
 ## 🛠️ Tech Stack
 * Rust (Stable Toolchain)
