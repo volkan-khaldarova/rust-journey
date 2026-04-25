@@ -3,5 +3,5 @@
 resolver = "3"
 
 members = [
-    "01-kelvin-weather",
+    "01-kelvin-weather", "02-dog-years",
 ]
